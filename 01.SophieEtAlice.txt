@@ -1,0 +1,17 @@
+Sophie et Alice sont en vacances à Paris. Elles se sont connues à la fac, il y a plusieurs années. Sophie est historienne de l'art et Alice est auteure de livres de mystère. Elles se trouvent a l'hôtel le premier jour de leur voyage. C'est une journée très ensoleillée et chaude.
+
+Alice: Bonjour, Sophie! Tu as bien dormi?
+Sophie: Très bien! Et toi?
+Alice: Très bien aussi. Que veux-tu faire aujourd'hui?
+Sophie: Mmm... J'ai envie d'aller au marché!
+Alice: Génial! Un marché alimentaire?
+Sophie: Non, je veux aller au marché aux antiquités.
+Alice: Ca a l'air bien. Tu en connais un?
+Sophie: Non, je vais regarder sur mon portable... En voilà un! Ca s'appelle le marché aux grenouilles.
+Alice: Quel drôle de nom!
+Sophie: Oui, c'est vrai.
+Alice: Il ouvre le samedi?
+Sophie: Oui, il est ouvert tous les samedis à partir de 10h30. Maintenant il est 11h00.
+Alice: Parfait! Où est-il?
+Sophie: Dans le quartier du Marais... C'est très loin. On peut y aller en taxi.
+Alice: C'est bon, allons-y!
